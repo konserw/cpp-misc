@@ -1,3 +1,9 @@
+# VS files
+*.user
+*.pdb
+Debug/
+Release/
+
 # Compiled Object files
 *.slo
 *.lo
