@@ -1,0 +1,68 @@
+czas	/funkcja/	dzialanie
+
+0:	/main/	Utworzono dialogboxa LANG
+2:	/main/	Utworzono dialogboxa main
+5:	/main/	Open
+12:	/wczyt/	wybrany plik:	C:\Users\konserw\Desktop\v51.csv
+12:	/wczyt/	Wczytano linii:	14
+12:	/main/	refresh
+12:	/refresh/	wczytano - enabling
+12:	/wersy/	zmiana wersu na:	0
+12:	/refresh/	koniec
+56:	/main/	refresh
+56:	/wersy/	zmiana wersu na:	1
+56:	/refresh/	koniec
+1128:	/main/	refresh
+1128:	/wersy/	zmiana wersu na:	2
+1128:	/refresh/	koniec
+1145:	/main/	refresh
+1145:	/wersy/	zmiana wersu na:	3
+1145:	/refresh/	koniec
+1298:	/main/	refresh
+1298:	/wersy/	zmiana wersu na:	4
+1298:	/refresh/	koniec
+1310:	/main/	refresh
+1310:	/wersy/	zmiana wersu na:	5
+1310:	/refresh/	koniec
+1331:	/main/	refresh
+1331:	/wersy/	zmiana wersu na:	6
+1331:	/refresh/	koniec
+1331:	/main/	refresh
+1331:	/wersy/	zmiana wersu na:	7
+1331:	/refresh/	koniec
+1331:	/main/	refresh
+1331:	/wersy/	zmiana wersu na:	6
+1332:	/refresh/	koniec
+1341:	/main/	refresh
+1341:	/wersy/	zmiana wersu na:	7
+1341:	/refresh/	koniec
+1379:	/main/	refresh
+1379:	/wersy/	zmiana wersu na:	8
+1379:	/refresh/	koniec
+1389:	/main/	refresh
+1389:	/wersy/	zmiana wersu na:	9
+1389:	/refresh/	koniec
+1405:	/main/	refresh
+1405:	/wersy/	zmiana wersu na:	10
+1405:	/refresh/	koniec
+1498:	/main/	refresh
+1498:	/wersy/	zmiana wersu na:	11
+1498:	/refresh/	koniec
+1503:	/main/	refresh
+1503:	/wersy/	zmiana wersu na:	12
+1503:	/refresh/	koniec
+1533:	/main/	refresh
+1533:	/wersy/	zmiana wersu na:	13
+1533:	/refresh/	koniec
+1551:	/main/	refresh
+1551:	/refresh/	dodawanie wiersza
+1551:	/wersy/	zmiana wersu na:	14
+1551:	/refresh/	koniec
+1554:	/main/	refresh
+1554:	/refresh/	dodawanie wiersza
+1554:	/wersy/	zmiana wersu na:	15
+1554:	/refresh/	koniec
+1559:	/main/	Save
+1566:	/zapis/	wybrano plik do zapisu:	C:\Users\konserw\Desktop\v51.csv
+1566:	/zapis/	zapisano
+1567:	/main/	zapis przed wyjsciem?

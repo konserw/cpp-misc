@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tlumacz_objekt", "tlumacz_objekt\tlumacz_objekt.vcproj", "{373C7C4E-2A89-47D9-87C2-3728CE26A6E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373C7C4E-2A89-47D9-87C2-3728CE26A6E3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{373C7C4E-2A89-47D9-87C2-3728CE26A6E3}.Debug|Win32.Build.0 = Debug|Win32
+		{373C7C4E-2A89-47D9-87C2-3728CE26A6E3}.Release|Win32.ActiveCfg = Release|Win32
+		{373C7C4E-2A89-47D9-87C2-3728CE26A6E3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

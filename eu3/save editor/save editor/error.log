@@ -1,0 +1,73 @@
+czas	/funkcja/	dzia³anie
+
+############################################################
+
+0:	/init/	Zainicjowano log
+0:	/init/	Inicjalizacja...
+0:	/init/	Przewymiarowano terminal
+0:	/init/	wierszy:	40
+0:	/init/	kolumn:	80
+0:	/init/	Ma kolory
+0:	/init/	Curses aktywne
+0:	/init/	Koniec inicjalizacji
+
+############################################################
+
+0:	/sciezka/	Pocz¹tek szuaknia scie¿ki
+0:	/sciezka/	Udalo sie otworzyc klucz software.
+0:	/sciezka/	Udalo sie otworzyc klucz Paradox Interactive
+0:	/sciezka/	Udalo sie otworzyc klucz Europa Universalis III
+0:	/sciezka/	Sciezka instalacyjna gry:	C:\Program Files\Paradox Interactive\Europa Universalis III\
+0:	/sciezka/	Koniec szukania scie¿ki
+
+0:	/wybor_moda/	Pocz¹tek wyboru moda
+0:	/wybor_moda/	path + *:	C:\Program Files\Paradox Interactive\Europa Universalis III\mod\*
+0:	/wybor_moda/	znaleziono plik .mod:	Divide et Impera.mod
+0:	/wybor_moda/	znaleziono plik .mod:	Multi War.mod
+0:	/wybor_moda/	znaleziono plik .mod:	stare.mod
+0:	/cMenu/	utworzono instancje klasy cMenu /stdscr/ z wstepem
+2:	/wybor/	Wybrano:	stare
+2:	/wybor_moda/	wybrana wersja gry:	stare
+2:	/wybor_moda/	sciezka:	C:\Program Files\Paradox Interactive\Europa Universalis III\mod\stare\
+2:	/wybor_moda/	koniec wyboru moda
+
+############################################################
+
+2:	/wybor_save/	Poczatek wybierania save
+2:	/wybor_save/	sciezka:	C:\Program Files\Paradox Interactive\Europa Universalis III\mod\stare\save games\*
+2:	/wybor_save/	znaleziono plik .eu3:	autosave.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	histfree.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	oldautosave.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	Turcja1368_07_13.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	Turcja1382_02_05.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	Turcja1392_11_19.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	Turcja1399_01_25.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	Turcja1403_01_17.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	Turcja1413_07_17.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	Turcja1418_08_26.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	Turcja1426_07_26.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	Turcja1427_04_22.eu3
+2:	/wybor_save/	znaleziono plik .eu3:	Turcja1434_01_16.eu3
+2:	/wybor_save/	znalezionych save'ów:	13
+2:	/cMenu/	utworzono instancje klasy cMenu /stdscr/ z wstepem
+7:	/wybor/	Wybrano:	Turcja1434_01_16.eu3
+7:	/wybor_save/	wybrany save:	Turcja1434_01_16.eu3
+7:	/wybor_save/	sciezka:	C:\Program Files\Paradox Interactive\Europa Universalis III\mod\stare\save games\Turcja1434_01_16.eu3
+7:	/wybor_save/	Koniec wybierania save
+
+############################################################
+
+7:	/load/	wczytywanie
+9:	/load/	Wczytano znakow:	5.99619e+007
+9:	/load/	hum indeks:	2.89334e+007
+10:	/load/	Koniec loadu
+
+
+############################################################
+
+10:	/main/	Pocz¹tek w³aœciwego edytora
+10:	/main/	Przewymiarowano terminal
+10:	/main/	max y:	51
+10:	/main/	max x:	80
+10:	/main/	Wybrany save:	Turcja1434_01_16.eu3
+27:	/main/	koniec programu

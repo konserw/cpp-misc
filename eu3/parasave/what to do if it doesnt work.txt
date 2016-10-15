@@ -1,0 +1,4 @@
+If this app doesn.t work, and windows displays somethink like that:
+(The application has failed to start becouse the application configuration is incorrect)
+U have to download and install this MS package:
+http://www.microsoft.com/downloads/details.aspx?familyid=9B2DA534-3E03-4391-8A4D-074B9F2BC1BF&displaylang=en

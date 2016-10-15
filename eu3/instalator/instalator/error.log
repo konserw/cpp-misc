@@ -1,0 +1,21 @@
+czas	/funkcja/	dzialanie
+
+0:	/main/	START
+0:	/main/	MyRegisterClass
+0:	/main/	InitInstance
+0:	/wep/	tworzenie okna t³a
+0:	/wep/	komenda mci:	play 666 repeat
+0:	/wep/	odpowiedŸ mci:	
+0:	/wep/	koniec tworzenia okna t³a
+0:	/wep/	rysowanie
+0:	/wep/	sprz¹tanie po rysowaniu
+0:	/wep/	koniec rysowania
+0:	/main/	przed pêtl¹ komunikatów
+0:	/wep/	zmiana dialogboxa
+0:	/DLGPROC/	Utworzono dialogboxa, page:	0
+1:	/exit/	wyœwietlenie MB
+1:	/exit/	IDYES
+1:	/wep/	koñczenie pracy programu
+1:	/wep/	wyrzucanie œmieci
+1:	/wep/	œmieci wyrzucono
+1:	/main/	wyjscie z pêtli komunikatów

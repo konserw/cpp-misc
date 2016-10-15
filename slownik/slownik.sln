@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "slownik", "slownik\slownik.vcproj", "{4B7657B3-1AC4-4938-87D3-D9A6D003925F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B7657B3-1AC4-4938-87D3-D9A6D003925F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4B7657B3-1AC4-4938-87D3-D9A6D003925F}.Debug|Win32.Build.0 = Debug|Win32
+		{4B7657B3-1AC4-4938-87D3-D9A6D003925F}.Release|Win32.ActiveCfg = Release|Win32
+		{4B7657B3-1AC4-4938-87D3-D9A6D003925F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

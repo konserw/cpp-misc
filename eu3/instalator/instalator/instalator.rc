@@ -1,0 +1,268 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#define APSTUDIO_HIDDEN_SYMBOLS
+#include "windows.h"
+#undef APSTUDIO_HIDDEN_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Polish resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_PLK)
+#ifdef _WIN32
+LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
+#pragma code_page(1250)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_1 DIALOGEX 0, 0, 355, 160
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+CAPTION "Instalator moda Divide et Impera"
+FONT 12, "Monotype Corsiva", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Cancel",IDCANCEL,269,143,34,10
+    PUSHBUTTON      "Next",IDC_NEXT,310,143,36,10
+    EDITTEXT        IDC_INTRO,184,7,162,128,ES_MULTILINE | ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER | NOT WS_TABSTOP
+    CONTROL         127,IDC_STATIC,"Static",SS_BITMAP,7,7,165,147
+END
+
+IDD_2 DIALOGEX 0, 0, 409, 160
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+CAPTION "Instalator moda Divide et Impera"
+FONT 12, "Monotype Corsiva", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Cancel",IDCANCEL,280,144,40,10
+    PUSHBUTTON      "Previous",IDC_PREV,324,144,37,10
+    PUSHBUTTON      "Next",IDC_NEXT,364,144,38,10
+    EDITTEXT        IDC_EDIT,182,7,220,28,ES_MULTILINE | ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER | NOT WS_TABSTOP
+    GROUPBOX        "GameVersion",IDC_STATIC,182,45,135,86
+    CONTROL         "Radio2",IDC_RADIO1,"Button",BS_AUTORADIOBUTTON | BS_LEFT | BS_VCENTER | WS_GROUP | WS_TABSTOP,188,55,120,18
+    CONTROL         "Radio2",IDC_RADIO2,"Button",BS_AUTORADIOBUTTON | BS_LEFT | BS_VCENTER | WS_TABSTOP,188,74,120,18
+    CONTROL         "Radio2",IDC_RADIO3,"Button",BS_AUTORADIOBUTTON | BS_LEFT | BS_VCENTER | WS_TABSTOP,188,92,120,18
+    CONTROL         "Radio2",IDC_RADIO4,"Button",BS_AUTORADIOBUTTON | BS_LEFT | BS_VCENTER | WS_TABSTOP,188,108,120,18
+    CONTROL         "<a>Patch 4.1f download link</a>",IDC_SYSLINK1,"SysLink",WS_TABSTOP,322,56,80,13
+    CONTROL         127,IDC_STATIC,"Static",SS_BITMAP,7,7,165,147
+END
+
+IDD_4 DIALOGEX 0, 0, 380, 162
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+CAPTION "Instalator moda Divide et Impera"
+FONT 12, "Monotype Corsiva", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Cancel",IDCANCEL,252,145,37,10
+    PUSHBUTTON      "Previous",IDC_PREV,292,145,38,10
+    PUSHBUTTON      "Next",IDC_NEXT,337,145,36,10
+    CONTROL         127,-1,"Static",SS_BITMAP,7,7,220,203
+    EDITTEXT        IDC_EDIT,180,7,184,18,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER | NOT WS_TABSTOP
+    CONTROL         "Czyszczenie cache [zalecane]",IDC_CHECK1,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,182,34,191,15
+    CONTROL         "Zmiana jezyka na polski",IDC_CHECK2,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,182,50,179,12
+    CONTROL         "Pobranie manuala",IDC_CHECK3,"Button",BS_AUTOCHECKBOX | WS_DISABLED | WS_TABSTOP,182,65,176,14
+    CONTROL         "Automatyczne spatchowanie pliku eu3game.exe [zalecane]",IDC_CHECK4,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,182,80,176,14
+END
+
+IDD_5 DIALOGEX 0, 0, 423, 160
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+CAPTION "Instalator moda Divide et Impera"
+FONT 12, "Monotype Corsiva", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Cancel",IDCANCEL,337,141,40,12
+    CONTROL         127,-1,"Static",SS_BITMAP,7,7,220,203
+    EDITTEXT        IDC_EDIT,183,7,233,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER | NOT WS_TABSTOP
+    EDITTEXT        IDC_EDIT1,183,20,233,120,ES_MULTILINE | ES_AUTOVSCROLL | ES_AUTOHSCROLL | WS_VSCROLL | WS_HSCROLL
+    PUSHBUTTON      "Finish",IDC_FINISH,380,141,36,12,WS_DISABLED
+END
+
+IDD_3 DIALOGEX 0, 0, 395, 160
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+CAPTION "Instalator moda Divide et Impera"
+FONT 12, "Monotype Corsiva", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Cancel",IDCANCEL,258,143,42,10
+    PUSHBUTTON      "Previous",IDC_PREV,308,143,39,10
+    PUSHBUTTON      "Next",IDC_NEXT,354,143,34,10
+    CONTROL         127,-1,"Static",SS_BITMAP,7,7,220,203
+    EDITTEXT        IDC_EDIT,181,7,207,18,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER | NOT WS_TABSTOP
+    EDITTEXT        IDC_PATH,183,35,163,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Browse",IDC_BROWSE,348,36,40,11
+END
+
+IDD_DOWNLOAD DIALOGEX 0, 0, 201, 67
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CAPTION
+CAPTION "Instalator moda Divide et Impera"
+FONT 12, "Monotype Corsiva", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Abort",IDCANCEL,79,49,38,11
+    EDITTEXT        IDC_EDIT,7,7,187,17,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER | NOT WS_TABSTOP
+    CONTROL         "",IDC_PROGRESS,"msctls_progress32",WS_BORDER,7,26,187,9
+    EDITTEXT        IDC_SPEED,7,37,187,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+END
+
+IDD_VERSION DIALOGEX 0, 0, 218, 80
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION
+CAPTION "Wersja moda"
+FONT 12, "Monotype Corsiva", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,7,62,40,11
+    PUSHBUTTON      "Cancel",IDCANCEL,172,63,39,10
+    EDITTEXT        IDC_EDIT,7,7,204,48,ES_MULTILINE | ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 346
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 153
+    END
+
+    IDD_2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 402
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 154
+    END
+
+    IDD_4, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 373
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 155
+    END
+
+    IDD_5, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 416
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 153
+    END
+
+    IDD_3, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 388
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 153
+    END
+
+    IDD_DOWNLOAD, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 194
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 60
+    END
+
+    IDD_VERSION, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 211
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 73
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICO                 ICON                    "bez.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_TLO                 BITMAP                  "deir.bmp"
+IDB_SMALL               BITMAP                  "small.bmp"
+#endif    // Polish resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#ifndef APSTUDIO_INVOKED\r\n"
+    "#include ""targetver.h""\r\n"
+    "#endif\r\n"
+    "#define APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "#include ""windows.h""\r\n"
+    "#undef APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,6 @@
+srednia:	2.100000
+odchylenie:	0.223607
+p1:	4
+p2:	5
+p3:	5
+

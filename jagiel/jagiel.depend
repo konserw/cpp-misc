@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1306912266 source:/home/konserw/Dokumenty/cpp/jagiel/port.cpp
+	"head.h"
+
+1306879659 /home/konserw/Dokumenty/cpp/jagiel/head.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<termios.h>
+	<time.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<termios.h>
+	<errno.h>
+	<string.h>
+	<sys/ioctl.h>
+
+1306879024 source:/home/konserw/Dokumenty/cpp/jagiel/main.cpp
+	"head.h"
+

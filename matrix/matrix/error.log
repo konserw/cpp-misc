@@ -1,0 +1,17 @@
+czas	/funkcja/	dzia³anie
+
+############################################################
+
+0:	/init/	Zainicjowano log
+0:	/init/	Inicjalizacja...
+0:	/init/	Przewymiarowano terminal
+0:	/init/	wierszy:	25
+0:	/init/	kolumn:	80
+0:	/init/	Ma kolory
+0:	/init/	Curses aktywne
+0:	/init/	Koniec inicjalizacji
+
+############################################################
+
+0:	/matrix/	preinkrementacja (zwiekszenie rozmiaru)
+0:	/matrix/	wyswietlanie

@@ -1,0 +1,394 @@
+travel agent
+actor
+actress
+suite
+pharmacist
+artist
+bus
+coach
+motorway
+emergency
+luggage
+hand luggage
+out of work
+unemployment
+unemployed
+librarian
+ticket
+monthly ticket
+train ticket
+plane ticket
+return ticket
+one-way ticket
+ticket valid for
+travel agent, agency
+job centre
+left-luggage office
+camp
+minor road
+take a day off
+take a leave
+take a time off
+gate
+wake-up call
+be in charge of sth, sb
+be on one’s way
+(be in a) traffic jam
+fully booked
+fully booked up
+customs officer
+surgeon
+lorry, truck
+hard job
+custom
+interior decorator
+dentist
+voyage
+well-paid Job
+income
+enclose a CV
+get a pay rise
+experience
+odd jobs
+conductor
+HR (Human Resources)
+journalist
+economist
+fast train 
+electrician
+pensioner
+pension
+retirement
+evacuate (a building)
+application form
+photographer
+hairdresser
+barber
+main road
+miner
+housewife (househusband)
+brake
+lounge
+three-star hotel
+plumber
+IT specialist
+driving instruktor
+engineer
+walk, go on foot
+go
+go by sea
+go by air
+go by rail
+ride a house
+ride a motorbike
+ride a camel
+go by train
+ride a bike
+go by car
+go by plane
+go by boat
+go aboard
+HR (Human Resources)
+life jacket
+exchange office
+career
+boarding card
+ticket office
+cashier
+campsite
+driver (bus,taxi, lorry-ciê¿arówki)
+manager
+business class
+economy class
+concentrate on sth
+consultant
+passport control
+ticket inspektor
+beautician
+dress maker, tailor
+trip
+mergency
+accountant
+cook, chef
+ buy souvenirs
+qualifications
+emergency landing
+fly
+go/travel plane
+doctor
+airline
+postman
+boat
+life boat
+flight
+charter flight
+stockbroker
+painter (portrait)
+fine
+car mechanic
+tube, underground, subway
+minibus
+have a safe trip, journey
+have a good trip, journey
+be on, have a holiday
+work long hours
+booking office
+holiday resort
+stay at, in a hotel
+motorbike, motorcycle
+musician
+on holiday
+be in charge of sth, sb
+tent
+teacher
+scienist 
+invalid passport
+foreign currency
+duty
+camp
+departure
+depart
+depart
+departure
+see sb off
+fatality
+job advertisement
+au pair 
+babysistter
+fare
+make a profit
+applicant
+get promoted
+runway
+passenger
+salary
+tarting salary
+guest house
+railway platform
+staff
+cabin crew
+nurse
+pilot
+pay
+go/travel by boat
+train
+trough train
+passenger train
+departure lounge
+application
+travel
+business trip
+go by boat
+travel
+hitch-hike
+travel around the world
+go by sea
+go by air
+go by rail
+go by train
+travel across America
+go by car
+go by plane
+go backpacking
+travel aboard
+pay rise
+take, go for a ride
+go on holiday
+make/go on a journey, a tour, a trip, an excursion
+go walking
+go cycling
+show the way
+double room
+twin-bedded room
+single room
+B&B (bed and breakfest)
+cover a distance
+en suit
+take a flight
+police officer
+politician
+give sb a hand, assist sb
+assistant
+make a loss
+take, go on a cruise
+self-employed
+estate agent
+put up a tent
+job
+hard job
+teamwork
+manual job
+pchysical job 
+work
+seasonal job
+permanent job
+temporary job
+part-time job
+full-time job
+summer job
+employer
+self-employed, be self-employed
+work on/at  sth
+work from home
+work/do overtime
+employee
+worker
+faktory worker
+academic
+security guard
+road sweeper
+social worker
+internship
+intern
+executive
+lawyer
+TV presenter
+(a) Professional
+computer programmer
+ferry
+drive a car
+sales perpresentative
+train compartment 
+ride
+run sb over, run sb down
+retire
+speeding
+cross the border
+overwork
+change trains
+arrive in, at
+reach one’s destination
+caravan
+arrival 
+go camping
+go camping
+arrival
+psychologist
+ask the way
+reception
+receptionist
+receptionist
+references
+cruise
+director
+farmer
+bike, bicycle
+timetable
+timetable
+interview
+live entertainment
+traffic
+sculptor
+give up, quit
+lounge
+caravan
+airplane, aircraft, aeroplan
+youth hostel
+secretary
+emergency services
+including breakfest
+miss a flight
+miss a train
+miss a plane
+shop assistant
+petrol stadion
+permanent job
+apply for a job
+boat
+flight attendant
+go on strike
+firefighter, fireman
+boss
+look for a job
+taxi, cab
+deadline
+terminal
+interpreter
+translator
+tourist
+fine
+rescue sb
+maternity leave
+immigration officer
+sleeping carriage, car 
+suitcase
+working conditions
+valid passport
+holidaymaker
+vet
+call an ambulance
+permanent visa
+tourist visa
+run into sth
+shopkeeper
+vacancy
+vacancy
+luggage trolley
+shipwreck
+get on the bus
+get on the train
+colleague
+trip
+tour
+leave (for)
+meet sb at the stadion
+meet sb at the airport
+do a job
+fire sb
+land
+check out
+fee
+crash
+train crash
+car crash
+plane crash
+fiil In a form
+depart
+set off, set out (for)
+get off the bus
+get off the train 
+take off
+take a holiday
+yacht
+busy
+accommodation
+plane crew
+boat crew
+check in
+wages
+payment
+busy
+earn one’s living as
+book, reserve a ticket
+book, reserve a seat
+book, reserve a room
+earnings
+management
+manage, run
+sink
+employ sb
+career
+occupation
+profession
+collision
+collide with
+break down
+team
+permission to stay
+check in
+get lost
+green card
+have a flat tyre
+catch a flight
+resign
+find one’s way
+package holiday
+make a reservation
+do, go sightseeing
+visit tourist attractions
+take down a tent
+dismiss sb
+give bs the sack
+slow down, take things easy
+sick live
+curriculum vitae

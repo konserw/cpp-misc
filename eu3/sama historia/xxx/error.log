@@ -1,0 +1,75 @@
+czas	/funkcja/	dzia³anie
+
+############################################################
+
+0:	/init/	Zainicjowano log
+0:	/init/	Inicjalizacja...
+0:	/init/	Przewymiarowano terminal
+0:	/init/	wierszy:	25
+0:	/init/	kolumn:	80
+0:	/init/	Ma kolory
+0:	/init/	Curses aktywne
+0:	/init/	Koniec inicjalizacji
+
+############################################################
+
+
+############################################################
+
+0:	/sciezka/	Pocz¹tek szuaknia scie¿ki
+0:	/sciezka/	Udalo sie otworzyc klucz software.
+0:	/sciezka/	Udalo sie otworzyc klucz Paradox Interactive
+0:	/sciezka/	Udalo sie otworzyc klucz Europa Universalis III
+0:	/sciezka/	Sciezka instalacyjna gry:	C:\Program Files\Paradox Interactive\Europa Universalis III\
+0:	/sciezka/	Koniec szukania scie¿ki
+
+0:	/wybor_moda/	Pocz¹tek wyboru moda
+0:	/wybor_moda/	path + *:	C:\Program Files\Paradox Interactive\Europa Universalis III\mod\*
+0:	/wybor_moda/	znaleziono plik .mod:	Divide et Impera.mod
+0:	/wybor_moda/	znaleziono plik .mod:	Multi War.mod
+0:	/wybor_moda/	znaleziono plik .mod:	SRI.mod
+0:	/cMenu/	utworzono instancje klasy cMenu
+1:	/wybor/	Wybrano:	vanila
+1:	/wybor_moda/	wybrana wersja gry:	vanila
+1:	/wybor_moda/	sciezka:	C:\Program Files\Paradox Interactive\Europa Universalis III\
+1:	/wybor_moda/	koniec wyboru moda
+
+############################################################
+
+1:	/wybor_save/	Poczatek wybierania save
+1:	/wybor_save/	sciezka:	C:\Program Files\Paradox Interactive\Europa Universalis III\save games\*
+1:	/wybor_save/	znaleziono plik .eu3:	aaaa.eu3
+1:	/wybor_save/	znaleziono plik .eu3:	autosave.eu3
+1:	/wybor_save/	znaleziono plik .eu3:	game.eu3
+1:	/wybor_save/	znaleziono plik .eu3:	mp_Mughal_Empire1631_01_03edit.eu3
+1:	/wybor_save/	znaleziono plik .eu3:	oldautosave.eu3
+1:	/wybor_save/	znaleziono plik .eu3:	Ottomans1428_11_17.eu3
+1:	/wybor_save/	znaleziono plik .eu3:	zfdsa.eu3
+1:	/wybor_save/	znalezionych save'ów:	7
+1:	/cMenu/	utworzono instancje klasy cMenu
+2:	/wybor/	Wybrano:	mp_Mughal_Empire1631_01_03edit.eu3
+2:	/wybor_save/	wybrany save:	mp_Mughal_Empire1631_01_03edit.eu3
+2:	/wybor_save/	sciezka:	C:\Program Files\Paradox Interactive\Europa Universalis III\save games\mp_Mughal_Empire1631_01_03edit.eu3
+2:	/wybor_save/	Koniec wybierania save
+
+############################################################
+
+2:	/load/	wczytywanie
+3:	/load/	Wczytano znakow:	2.21464e+007
+3:	/load/	Koniec loadu
+
+3:	/historia/	poczatek historii
+3:	/cMenu/	utworzono instancje klasy cMenu
+5:	/wybor/	Wybrano:	historia + flagi
+11:	/main/	po historii
+
+############################################################
+
+11:	/save/	Poczatek zapisywania
+11:	/cMenu/	utworzono instancje klasy cMenu
+13:	/wybor/	Wybrano:	Zapisz pod nazwa game.eu3
+14:	/save/	koniec zapisywania
+16:	/main/	exiting
+
+############################################################
+
