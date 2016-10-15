@@ -75,7 +75,30 @@ void akcja(int id, HWND hWnd){
 			cur_y = 0;
 			ref(hWnd);	
 		}else if(id == 7){
-			ShellExecute(GetDesktopWindow(), L"open", L"kemy\\Kemy.exe", NULL, NULL, SW_SHOWDEFAULT);
+			PROCESS_INFORMATION info;
+			STARTUPINFO startup;
+			memset(&startup, 0, sizeof(startup));
+			startup.cb = sizeof(startup);
+//			startup.wShowWindow = SW_HIDE;
+		//	wchar_t* buff = new wchar_t[50];
+			wchar_t cmd[] = L"7za.exe e kemy.7z -oc:\\kemy -aoa";
+
+			if(CreateProcess(NULL, cmd, NULL, NULL, FALSE, 0, NULL, NULL, &startup, &info))
+			{
+				DWORD dwExitCode;
+//				MessageBox(NULL, L"Instalacja w toku", L"czekaj...", 0);
+				while(GetExitCodeProcess(info.hProcess, &dwExitCode) && dwExitCode == STILL_ACTIVE);
+				// you may want to show a wait dialog or something like that in the above loop
+				// while the exe is running...
+
+				// exe has finished here
+			
+		//	ShellExecute(hWnd, L"open", L"7za.exe", L"e kemy.7z -oc:\\kemy -aoa", NULL, SW_HIDE);
+			MessageBox(hWnd, L"Program Kemy zosta³ zainstalowany w folderze c:\\kemy.\nPo naciœniêciu przycisku Ok nast¹pi jego uruchomienie.", L"Zainstalowano", MB_OK); 
+			ShellExecute(GetDesktopWindow(), L"open", L"c:\\kemy\\Kemy.exe", NULL, L"C:\\kemy", SW_SHOWDEFAULT);
+			}
+			else 
+				MessageBox(hWnd, L"Instalacja programu kemy nie powiod³a siê.\n Rozpakuj rêcznie archiwum kemy.7z.", L"Error", MB_OK);
 		}else 
 			ShellExecute(GetDesktopWindow(), L"open", menu_items[0][id].c_str(), NULL, NULL, SW_SHOWDEFAULT);
 	}else if(page == 1){

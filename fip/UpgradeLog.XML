@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="fip">
+</Property><Property Name="Solution File" Value="C:\Users\konserw\Desktop\fip\fip.sln">
+</Property><Property Name="User Options File" Value="C:\Users\konserw\Desktop\fip\fip.suo">
+</Property><Property Name="Date" Value="21 maja 2011">
+</Property><Property Name="Time" Value="10:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="fip.sln" Description="File successfully backed up as C:\Users\konserw\Desktop\fip\fip.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="fip.suo" Description="File successfully backed up as C:\Users\konserw\Desktop\fip\fip.suo.old">
+</Event><Event ErrorLevel="0" Project="fip" Source="fip\fip.vcproj" Description="Converting project file 'C:\Users\konserw\Desktop\fip\fip\fip.vcproj'.">
+</Event><Event ErrorLevel="1" Project="fip" Source="fip\fip.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="fip" Source="fip\fip.vcproj" Description="Done converting to new project file 'C:\Users\konserw\Desktop\fip\fip\fip.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="fip" Source="fip\fip.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="fip.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="fip.sln" Description="Converted">
+</Event></UpgradeLog>

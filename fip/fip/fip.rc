@@ -33,16 +33,16 @@ LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
 
 // Icon with lowest ID value placed first to ensure application icon
 // remains consistent on all systems.
-IDI_ICON1               ICON                    "C:\\Programowanie\\fip\\fip\\fip_small.ico"
+IDI_ICON1               ICON                    "fip_small.ico"
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap
 //
 
-IDB_FIP                 BITMAP                  "C:\\Programowanie\\fip\\fip\\fip_white.bmp"
-IDB_TOP                 BITMAP                  "C:\\Programowanie\\fip\\fip\\top.bmp"
-IDB_ARROW               BITMAP                  "C:\\Programowanie\\fip\\fip\\ar.bmp"
+IDB_FIP                 BITMAP                  "fip_white.bmp"
+IDB_TOP                 BITMAP                  "top.bmp"
+IDB_ARROW               BITMAP                  "ar.bmp"
 IDB_MARLEY              BITMAP                  "marley.bmp"
 IDB_DURA                BITMAP                  "durapipe.bmp"
 IDB_FRIAKA              BITMAP                  "fria_aka.bmp"
